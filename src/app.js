@@ -6,6 +6,7 @@ const init = () => {
   const render = () => {
     const route = createRoute();
     appElt.innerHTML = route.render();
+    route.script ? route.script() : null;
     routerLink();
   };
 
