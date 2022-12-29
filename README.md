@@ -10,3 +10,7 @@ just prefix the return with
 
 
 Mbola KAMO BE za anao documentation de aleo ny code no atao manazava azy xD
+
+This ain't completed yet.. wait a bit more.. i'm still adding more features to it
+
+I'm currently working on a virtual dom
